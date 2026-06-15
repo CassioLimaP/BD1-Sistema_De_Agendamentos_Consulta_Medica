@@ -182,6 +182,8 @@ CREATE TABLE Atestado (
     FOREIGN KEY (id_consulta) REFERENCES Consulta(id_consulta)
 );
 
+CREATE UNIQUE INDEX uq_atestado_consulta ON Atestado(id_consulta);
+
 CREATE TABLE Prontuario (
     id_prontuario      INTEGER   NOT NULL PRIMARY KEY AUTOINCREMENT,
     data_abertura      DATE      NOT NULL,
