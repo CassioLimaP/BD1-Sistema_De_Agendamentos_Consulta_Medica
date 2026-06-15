@@ -1,5 +1,5 @@
 # Trabalho de banco de dados 1 - Sistema de Gerenciamento de Consultas Médicas
-
+## Relatório -> [Relatório Sistema de gerenciamento ](https://github.com/CassioLimaP/BD1-Sistema_De_Agendamentos_Consulta_Medica/blob/main/RELATORIO%20SISTEMA%20DE%20GERENCIAMENTO.pdf)
 ## Código SQL usado para gerar as tabelas, views e triggers: 
 
 ```sql
