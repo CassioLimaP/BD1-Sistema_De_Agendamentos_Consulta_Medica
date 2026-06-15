@@ -1,1 +1,1 @@
-# BD1-Sistema_De_Agendamentos_Consulta_Medica
+# Trabalho de banco de dados 1 - Sistema de Gerenciamento de Consultas Médicas
